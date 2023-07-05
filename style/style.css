@@ -43,7 +43,6 @@ a, button {
     color: #fff;
     text-decoration: none;
     cursor: pointer;
-    float: right;
 }
 button {
     background: rgba(0, 0, 0,0.2);
